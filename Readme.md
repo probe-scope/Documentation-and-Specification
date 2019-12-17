@@ -6,7 +6,7 @@ This repo has various portions of Documentation and Specifications for the Probe
 
 ## Probe-Scope CDC Interface Spec
 
-This is the defining spec for how we transfer data over USB from the Probe-Scope to the GUI and back again. Why use CDC? It is widely soupported and when measured, it can transfer bianary data 90% as fast as raw USB bulk transfers.
+This is the defining spec for how we transfer data over USB from the Probe-Scope to the GUI and back again. Why use CDC? It is widely supported and when measured, it can transfer binary data 90% as fast as raw USB bulk transfers.
 
 ## Probe Scope Frontend Calc
 
